@@ -39,6 +39,8 @@ mvn spring-boot:run
 
 ### Java in VSCode
 
+Neat extension panel
+
 ![java projects](docs\JavaProjectsInVsCode.png)
 
 ## Refs
