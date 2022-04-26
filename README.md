@@ -41,10 +41,14 @@ mvn spring-boot:run
 
 Neat extension panel
 
-![java projects](docs\JavaProjectsInVsCode.png)
+![java projects](docs/JavaProjectsInVsCode.png)
 
 [Springboot dashboard extension](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-spring-boot-dashboard
 )
+
+Spring boot extension
+
+![spring boot grab](docs/springboot-initializr.png)
 
 ## Refs
 
