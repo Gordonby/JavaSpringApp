@@ -43,7 +43,10 @@ Neat extension panel
 
 ![java projects](docs\JavaProjectsInVsCode.png)
 
+[Springboot dashboard extension](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-spring-boot-dashboard
+)
+
 ## Refs
 
 - https://vaadin.com/learn/tutorials/vs-code-for-java-and-maven-projects
-- 
+- https://code.visualstudio.com/docs/java/java-spring-boot
